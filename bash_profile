@@ -4,7 +4,6 @@ export LSCOLORS=ExGxFxdxCxDxDxBxBxExEx # Blau
 
 # aliases
 
-alias gs='git status'
-alias gc='git commit -am'
+alias st='git status'
+alias ci='git commit -m'
 alias ga='git add'
-alias gco='git checkout'
