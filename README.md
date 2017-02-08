@@ -9,3 +9,6 @@
 ## Install git configuration
 
     ln -s ~/Documents/Tools/dotfiles/gitconfig ~/.gitconfig
+
+
+![](https://raw.githubusercontent.com/captaintuna/dotfiles/master/images/git-diff.png)
