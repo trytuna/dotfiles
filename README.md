@@ -12,3 +12,4 @@
 
 
 ![](https://raw.githubusercontent.com/captaintuna/dotfiles/master/images/git-diff.png)
+![](https://raw.githubusercontent.com/captaintuna/dotfiles/master/images/terminal-colors.png)
