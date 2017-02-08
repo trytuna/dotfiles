@@ -1,0 +1,19 @@
+Colors:
+
+Schwarz (0): #35383C
+Rot (1): #DF6C5B
+Grün (2): #D1FA71
+Gelb: (3): #FFC542
+Blau: (4): #6FC0D5
+Magenta: (5): #E98FFC
+Zyan: (6): #00FCE4
+Weiß: (7): #EFEEEF
+
+Hellschwarz (8): #464C52
+Hellrot (9): #F1A9A3
+Hellgrün (10): #D4EF77
+Hellgelb (11): #FFE788
+Hellblau (12): #9BDFF2
+Hellmagenta (13): #F6CEFD
+Hellzyan (14): #6DFDF0
+Hellweiß (15): #FAFAFA

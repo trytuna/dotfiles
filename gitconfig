@@ -1,6 +1,6 @@
 [user]
-	name = Timo Schr.
-        email = schrappe.t@thirdman.de
+	name = Timo Schrappe
+        email = hello@timo.ruhr
 [color]
         branch = auto
         diff = auto
@@ -8,7 +8,7 @@
         ui = auto
 [color "branch"]
         current = yellow reverse
-        local = yellow 
+        local = yellow
         remote = green
 [color "diff"]
         meta = yellow bold
