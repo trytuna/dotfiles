@@ -1,0 +1,4 @@
+" https://chris.beams.io/posts/git-commit/
+set textwidth=72
+
+syntax enable

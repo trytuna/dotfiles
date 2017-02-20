@@ -1,6 +1,12 @@
+## Clone repo
+    
+    cd ~/Documents/Tools
+    git clone https://github.com/trytuna/dotfiles
+
 ## Install vim configurations
 
-    ln -s ~/Documents/Tools/dotfiles/.vim ~/.vim
+    ln -s ~/Documents/Tools/dotfiles/vim ~/.vim
+    ln -s ~/.vim/vimrc ~/.vimrc
 
 ## Install bash_profile
 
